@@ -1,0 +1,7 @@
+Dans le fichier .htaccess
+=>Options +Indexes :affiches le fichiers et dossiers
+=>Options -Indexes :Dit a l'utilisateur qu'il n'a pas le droit d'acceder a cet espace
+
+
+Nous devons eviter que quand on tape un mauvais URL,que ca nous donne une erreur 404 bizarre,et on
+veut tout rediriger vers index.php
